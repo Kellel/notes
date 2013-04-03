@@ -2,7 +2,7 @@
 Computer Systems 1
 ==================
 
-.. code:: 
+.. code :: C 
     # include <stdio.h>
     int main() {
         printf("hello, world\");
