@@ -16,3 +16,13 @@ This mesurement is given by Newtons / Square Meters = Pa
 .. image:: http://www.tulane.edu/~sanelson/images/stress1.gif
 
 If force is applied parallel to the surface normal it generates NORMAL STRESS
+
+A force applied perpendicular to the surface normal generates SHEAR STRESS
+
+Equal force in all directions generates PRESSURE
+
+Change in shape is called STRAIN (deformation)
+
+.. image:: http://www.ecourses.ou.edu/ebook/mechanics/ch01/sec013/media/d1321.gif
+
+Normal strain = ε = ΔL/L(unitless)
