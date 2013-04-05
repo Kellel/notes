@@ -25,10 +25,10 @@ Change in shape is called STRAIN (deformation)
 
 .. image:: http://www.ecourses.ou.edu/ebook/mechanics/ch01/sec013/media/d1321.gif
 
-Normal strain = ε = ΔL/L(unitless)
+Normal strain = ε =ΔL/L(unitless)
 
 Change in shape is called STRAIN
 
 Shear Strain - angular deformation
 
-Pressure - Changes volume "Dilatation" = �V/V
+Pressure - Changes volume "Dilatation" = ΔV/V
