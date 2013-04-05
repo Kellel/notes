@@ -31,4 +31,4 @@ Change in shape is called STRAIN
 
 Shear Strain - angular deformation
 
-Pressure - Changes volume "Dilatation" = ”V/V
+Pressure - Changes volume "Dilatation" = ëV/V
