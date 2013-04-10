@@ -32,4 +32,15 @@ Faulting
 .. image:: http://www-rohan.sdsu.edu/~rmellors/lab8/l8rev1.jpg
 .. image:: http://www-rohan.sdsu.edu/~rmellors/lab8/l8left1.jpg
 
-.. imgae:: http://www.tulane.edu/~sanelson/images/strslip.gif
+.. image:: http://www.tulane.edu/~sanelson/images/strslip.gif
+
+Using S-P times to locate quakes
+--------------------------------
+
+- Record waveforms at a minimum of 3 stations
+- Identify P and S waves
+- Measure delta T between P and S waves
+- Find distance for which S-P time is known to be Delta T
+- Draw circles on a map to pin point the earthquake location (Epicenter)
+
+
