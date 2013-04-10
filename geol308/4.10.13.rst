@@ -1,0 +1,35 @@
+========================
+Geology 308 -- 4/10/2013
+========================
+
+Body Waves
+----------
+
+  P waves
+
+  S waves 
+
+Surface Waves
+-------------
+ 
+  Love waves:
+    
+    - Slower than P or S
+    - Oscillates side-to-side, like a snake
+    - No vertical motion
+
+  Rayleigh waves:
+ 
+    - Slowest, most damaging
+    - Oscillates in circular motion, like ocean waves
+
+.. image:: http://eqseis.geosc.psu.edu/~cammon/HTML/Classes/IntroQuakes/Notes/Images_specific02/body_surf_wvs.gif
+
+Faulting
+--------
+
+.. image:: http://www-rohan.sdsu.edu/~rmellors/lab8/l8norm1.jpg
+.. image:: http://www-rohan.sdsu.edu/~rmellors/lab8/l8rev1.jpg
+.. image:: http://www-rohan.sdsu.edu/~rmellors/lab8/l8left1.jpg
+
+.. imgae:: http://www.tulane.edu/~sanelson/images/strslip.gif
