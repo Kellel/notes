@@ -1,0 +1,38 @@
+============================
+Geology 308 -- April 8, 2013
+============================
+
+Elastic moduli
+--------------
+
+Pysical properties that describe a material's resistance to deformation.
+
+[Stress = elastric modulus X strain]
+
+.. image:: http://www.ecourses.ou.edu/ebook/mechanics/ch01/sec013/media/d1321.gif
+
+Normal Stress is shown by Î = EÎ
+
+Î¼= shear modulus or rigidity modulus => resistance to shearing 
+
+Pressure: P = K~TL/L 
+
+Fluids have Î¼= 0
+
+.. image:: http://www.tulane.edu/~sanelson/images/stressstrain.gif
+
+Elastic  
+
+Plastic 
+
+Brittle Failure  
+
+.. image:: http://www.tulane.edu/~sanelson/images/seismicwaves.gif  
+
+Frequency or f is given by cycles/sec also known as Hz
+
+Earthquakes are generally between 0.001 Hz -> 50 Hz
+
+Period (T) sec/cycle
+
+Velocity (V) = Distance/Time for earthquakes we say V = Wavelength/Period or V = Wavelenght * Frequency

@@ -1,0 +1,29 @@
+=============================
+Geology 308 -- April 24, 2013
+=============================
+
+Earthquake frequencies
+----------------------
+
+- 1000s - 50Hz
+- Each quake is combination of many frequencies
+- The bigger the quake the lower the frequencies
+- What you record may not be what the quake started with
+
+Attenuation
+-----------
+
+- Waves move through Earth
+- Friction created with each oscillation
+- Energy lost due to friction
+
+Seismometry
+-----------
+
+- Seismometer
+	sensor that responds to ground motion
+- Seismoscope
+	records ground motion without measuring time
+
+
+The first known seismoscope was in China 132 B.C.E.

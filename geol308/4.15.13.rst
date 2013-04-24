@@ -1,0 +1,11 @@
+=============================
+Geology 308 -- April 15, 2013
+=============================
+
+Focal Mechanisms
+----------------
+
+- black indicates motions TOWARSA this quadrant
+- White indicates motion AWAY from this quadrant
+- Lines represent fault planes
+

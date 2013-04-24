@@ -1,0 +1,23 @@
+=============================
+Geology 308 -- April 19, 2013
+=============================
+
+- S-waves bounce off of the outer core
+- P-wave go through
+
+.. image:: http://www.geog.ucsb.edu/~dylan/mtpe/geosphere/topics/rs/propagation.jpg
+
+- A p-wave propagation can create s-waves in the inner core 
+- A wave hitting a boundry at an angle it creates forces in both the normal direction but also in the shear direction creating both p and s waves.
+
+Nomenclature
+------------
+
+- P: P-wave in mantle
+- S: S-wave in mantle
+- K: P-wave in outer core
+- C: Wave reflected off of outer core
+- I: P-wave in inner core
+- J: S-wave in inner core (converted from P)
+- i: wave that has reflected within inner core
+

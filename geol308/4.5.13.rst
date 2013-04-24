@@ -15,6 +15,9 @@ This mesurement is given by Newtons / Square Meters = Pa
 
 .. image:: http://www.tulane.edu/~sanelson/images/stress1.gif
 
+Types of Strain / Stress
+------------------------
+
 If force is applied parallel to the surface normal it generates NORMAL STRESS
 
 A force applied perpendicular to the surface normal generates SHEAR STRESS
@@ -32,3 +35,9 @@ Change in shape is called STRAIN
 Shear Strain - angular deformation
 
 Pressure - Changes volume "Dilatation" = ΔV/V
+
+Stress { Normal, Shear, Pressure }
+
+Strain = Deformation { Normal, Shear, Volumetric }
+
+
