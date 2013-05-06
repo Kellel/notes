@@ -1,0 +1,41 @@
+==========================
+Geology 308 -- May 6, 2013
+==========================
+
+Coseismic Events
+================
+
+Tsunamis
+--------
+
+- Earthquakes
+- Landslides
+- Volcanic eruptions
+- Asteroid impact
+- Anything that moves a large amount of water very rapidly
+
+What kind of earthquakes generate tsunamis?
+-------------------------------------------
+
+- Very Large (> M7)
+- Quakes that displace water
+    - Thrust or normal faults
+    - NOT strike-slip
+- Quakes that trigger landslides
+
+"Tsunami Earthquake"
+--------------------
+
+- Generates an anomalously large tsunami (given its magnitude)
+- Mw significantly greater than Ms
+- Very slow rupture
+- Associated with slip within accretionary wedge (?)
+
+How fast do tsunamis travel?
+----------------------------
+
+- Velocity dependent on water depth d
+- v = √gd
+- Deep water: ~1000 kph
+- Shallow water: ~30kph
+- Wave slows, amplitude grows

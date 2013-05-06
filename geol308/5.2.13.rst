@@ -1,0 +1,37 @@
+==========================
+Geology 308 -- May 2, 2013
+==========================
+
+Body wave magnitude
+-------------------
+
+m = log(A/T) + Q(h,D)
+
+Q(h,D) = emperical function of distance and depth 
+
+Best for deep quakes
+
+Enter our hero, Keiti Aki
+-------------------------
+
+Introduces seismic moment Mo
+
+Mo = uAd
+
+u = shear modulus of surrounding rock
+
+A = Area of fault
+
+d = average displacement on fault
+
+Units are dyne-cm or N-m (energy)
+
+Hiroo Kanamori
+--------------
+
+- Moment magnitude
+- Correlates with Mb and Ms
+- Never saturates
+
+
+
