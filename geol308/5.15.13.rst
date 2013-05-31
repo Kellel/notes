@@ -1,0 +1,12 @@
+
+PGA/SA probabilities
+
+- Acceleration (in %g) with 2% or 10% probability 
+
+Loma Prieta
+-----------
+
+- M6.9
+- 63 deaths, >3500 injuries
+- $6 billion in damage 
+
